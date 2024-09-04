@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/Nostromito/blog-preview-card)
+- Live Site URL: [live site](https://nostromito.github.io/blog-preview-card/)
 
 ## My process
 I started by finishing the html that was prewritten and moving towards what I knew in css. After completing what I knew I started using refrences from my last project and locating youtube videos to help me understand what I was doing right, but more importantly, what I was doing wrong.
@@ -52,7 +52,6 @@ I am by far most proud of the use of min-height and max-width to make my webpage
     border: .75px solid;
     box-shadow: 8px 8px 0px black;
 }
-
 ```
 
 ### Continued development
